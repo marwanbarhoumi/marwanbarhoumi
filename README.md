@@ -25,29 +25,48 @@
 
 <h2 align="center">Tech Stack</h2>
 
+<p align="center">
+  Technologies I use in projects and continue to learn.
+</p>
+
 <table align="center">
   <tr>
     <td align="center" valign="top">
       <strong>Frontend</strong><br />
-      <img src="https://skillicons.dev/icons?i=react,js,ts&theme=dark" alt="Frontend technologies" /><br />
-      React · JavaScript · TypeScript
+      <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,redux&theme=dark" alt="Frontend technologies" /><br />
+      React · JavaScript · TypeScript · Next.js · Tailwind CSS · Redux
     </td>
     <td align="center" valign="top">
       <strong>Backend</strong><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend technologies" /><br />
-      Node.js · Express.js · MongoDB · SQL
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma,nestjs&theme=dark" alt="Backend technologies" /><br />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" /><br />
+      Node.js · Express.js · MongoDB · SQL · Prisma · NestJS · Socket.IO
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
+      <strong>Databases</strong><br />
+      <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="Database technologies" /><br />
+      PostgreSQL · Redis
+    </td>
+    <td align="center" valign="top">
       <strong>DevOps & Cloud</strong><br />
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,prometheus,grafana&theme=dark" alt="DevOps and Cloud technologies" /><br />
-      Docker · Kubernetes · Jenkins · Ansible · Prometheus · Grafana
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,prometheus,grafana,githubactions,terraform,aws&perline=5&theme=dark" alt="DevOps and Cloud technologies" /><br />
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" /><br />
+      Docker · Kubernetes · Jenkins · Ansible · Prometheus · Grafana · GitHub Actions · Terraform · Helm · AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <strong>Testing</strong><br />
+      <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Testing technologies" /><br />
+      <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="React Testing Library" /><br />
+      Jest · React Testing Library
     </td>
     <td align="center" valign="top">
       <strong>Tools</strong><br />
-      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Development tools" /><br />
-      Git · GitHub
+      <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Development tools" /><br />
+      Git · GitHub · Postman
     </td>
   </tr>
 </table>
